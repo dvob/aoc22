@@ -219,5 +219,7 @@ int main(int argc, char **argv) {
 	result = solve2(l.data, l.len);
 	printf("%d\n", result);
 
+	list_reset(&l);
+
 	return EXIT_SUCCESS;
 }
