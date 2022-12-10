@@ -3,3 +3,4 @@
 .env
 
 /*/input.txt
+/*/go/day[0-9][0-9]

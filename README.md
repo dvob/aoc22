@@ -9,6 +9,8 @@ Advent of code solved in various languages:
   * [day06](day06/c)
 * Go
   * [day02](day02/go)
+  * [day08](day08/go)
+  * [day09](day09/go)
 * Rust
   * [day04](day04/rust)
 * Shell
