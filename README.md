@@ -12,6 +12,7 @@ Advent of code solved in various languages:
   * [day07](day07/go)
   * [day08](day08/go)
   * [day09](day09/go)
+  * [day12](day12/go)
 * Rust
   * [day04](day04/rust)
   * [day10](day10/rust)
